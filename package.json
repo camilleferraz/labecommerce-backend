@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "name": "labecommerce-backend",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"tsc && node ./build/database.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilleferraz/labecommerce-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilleferraz/labecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/camilleferraz/labecommerce-backend#readme"
+}
